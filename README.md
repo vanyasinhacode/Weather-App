@@ -1,5 +1,4 @@
 # Weather App
-![image]
 
 ## Overview
 
